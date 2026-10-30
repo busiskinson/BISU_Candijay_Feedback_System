@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194469112282",
+    "project_id": "customer-satisfaction-sy-5457a",
+    "storage_bucket": "customer-satisfaction-sy-5457a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194469112282:android:6aeb03391158b6a25df8e3",
+        "android_client_info": {
+          "package_name": "com.example.customer_satisfaction_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqmGvkjsYiU59SrMklpZl7sPX-kQnyVsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
